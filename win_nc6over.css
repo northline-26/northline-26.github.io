@@ -37,8 +37,9 @@
     cursor: default
 }
 
-BODY {
-    font-family: "ＭＳ Ｐゴシック";
+  @font-face {
+  font-family: 'MyFont';
+  src: url('ms-sans-serif-3.ttf') format('truetype');
 }
 
 .subm {
