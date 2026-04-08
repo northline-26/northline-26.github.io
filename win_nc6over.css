@@ -37,15 +37,6 @@
     cursor: default
 }
 
-@font-face {
-    font-family: 'MSSans';
-    src: url('ms-sans-serif-3.woff2') format('woff2');
-}
-
-* {
-    font-family: 'MSSans', sans-serif;
-}
-
 .subm {
     position: absolute;
     left: 0;
