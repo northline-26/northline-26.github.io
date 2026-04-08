@@ -37,9 +37,13 @@
     cursor: default
 }
 
-  @font-face {
-  font-family: 'MyFont';
-  src: url('ms-sans-serif-3.ttf') format('truetype');
+ @font-face {
+    font-family: 'MSSans';
+    src: url('ms_sans_serif_3.ttf') format('truetype');
+}
+
+* {
+    font-family: 'MSSans', sans-serif;
 }
 
 .subm {
